@@ -3,11 +3,13 @@
 Project Title or 
 Name of the Application	: Drone Flight 
 
-Section			   	   	   	:
+Section			   	   	   	: 9 - Magnesium B2030
 
-Group Members			   		:		
+Group Members			   		:	LOPEZ, Alexandria Elise L.
+                          PILIEN, Likha C.
+                          REDOR, Lisbeth Louise G.
 
-Date (Proposal Date)		:
+Date (Proposal Date)		: xx October 2026
 
 Project Description:
 
