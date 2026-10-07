@@ -5,9 +5,7 @@ Name of the Application	: Drone Flight
 
 Section			   	   	   	: 9 - Magnesium B2030
 
-Group Members			   		:	LOPEZ, Alexandria Elise L.
-                          PILIEN, Likha C.
-                          REDOR, Lisbeth Louise G.
+Group Members			   		:	LOPEZ, Alexandria Elise L., PILIEN, Likha C., REDOR, Lisbeth Louise G.
 
 Date (Proposal Date)		: xx October 2026
 
