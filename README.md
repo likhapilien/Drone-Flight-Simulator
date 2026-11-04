@@ -1,4 +1,4 @@
-# Project Proposal
+# CS3SY2627_ProjectProposal
 
 Project Title or 
 Name of the Application	: Drone Flight Simulator
@@ -7,18 +7,15 @@ Section			   	   	   	: 9 - Magnesium B2030
 
 Group Members			   		:	Alexandria Elise L. Lopez, Likha C. Pilien, Lisbeth Louise G. Redor
 
-Date (Proposal Date)		: xx October 2026
+Date (Proposal Date)		: 8 November 2026
 
 Project Description:
 
-A brief summary of the project description and the need for it.
-Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
-Include the description as well of your target demographics as the user of your application. 
-The description is then followed by the class diagram, depicting clearly what was described.
+Model basic drone movement in 2D space using physics equations for thrust and gravity.
 
 Goals:
 
-Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
+What our group wants as long term outcomes from this project are that 
 
 Objective 1:
 Objective 2:
