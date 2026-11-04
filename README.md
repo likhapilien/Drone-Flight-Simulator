@@ -5,13 +5,13 @@ Name of the Application	: Drone Flight Simulator
 
 Section			   	   	   	: 9 - Magnesium B2030
 
-Group Members			   	:	Alexandria Elise L. Lopez, Likha C. Pilien, Lisbeth Louise G. Redor
+Group Members			   	: Alexandria Elise L. Lopez, Likha C. Pilien, Lisbeth Louise G. Redor
 
 Date (Proposal Date)		: 8 November 2026
 
 Project Description:
 
-Model basic drone movement in 2D space using physics equations for thrust and gravity.
+- This project will model basic drone movement in 2D space using physics equations for thrust and gravity.
 
 Goals:
 
